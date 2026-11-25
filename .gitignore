@@ -1,0 +1,8 @@
+/target
+# never commit exported secrets
+/termius_export/
+*.key
+*.ppk
+*.pem
+records.json
+hosts.csv
